@@ -1,4 +1,4 @@
-# ffsa
+# FFSA
 fragmentation-free spatial allocation (spatial optimization)
 
 *Descriptions of inputs, outputs are within each script
