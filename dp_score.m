@@ -63,7 +63,7 @@ else
 end
 
 if minimal == 1
-    score = entropyII_dp(dmatii, x0, y0, x1, y1);
+    score = minchange(dmatii, x0, y0, x1, y1);
 end
 
 dpmat(x0, y0, x1, y1) = score;
